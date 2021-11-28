@@ -24,6 +24,7 @@
 			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="text-center">
 					<h1 class="h1-heading"><span class="span-hello">Hello,</span> <span class="span-world">World!</span></h1>
+                    <h3>Git & Github First Demo</h3>
 				</div>
 			</div>
 		</div>
