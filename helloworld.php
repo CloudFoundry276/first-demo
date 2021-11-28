@@ -6,17 +6,7 @@
 	<title>Hello World</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-	<style type="text/css">
-		.h1-heading {
-			padding-top: 50px;
-		}
-		.span-hello {
-			color: #FF0000;
-		}
-		.span-world {
-			color: #0000FF;
-		}
-	</style>
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<div class="container">
