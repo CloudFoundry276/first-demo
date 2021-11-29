@@ -1,1 +1,5 @@
+# Ignore File
 /data.php
+
+# Ignore all txt files in Folder
+text/*.txt
